@@ -3,7 +3,7 @@
 Aplicação desenvolvida com javascript para a realização do desafio proposto pela empresa Tunts.Rocks para o processo seletivo do programa DevTraining.
 
 
-Requisitos para executar aplicação:
+Requisitos para executar a aplicação:
 - Node.js
 - Git
 
